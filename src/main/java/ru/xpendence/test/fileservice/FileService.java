@@ -1,4 +1,4 @@
-package service.fileservice;
+package ru.xpendence.test.fileservice;
 
 import java.util.List;
 

@@ -1,5 +1,7 @@
-import repository.jdbc.JdbcRepositoryImpl;
-import service.fileservice.FileServiceImpl;
+package ru.xpendence.test;
+
+import ru.xpendence.test.repository.jdbc.JdbcRepositoryImpl;
+import ru.xpendence.test.fileservice.FileServiceImpl;
 
 import java.io.FileInputStream;
 import java.io.IOException;

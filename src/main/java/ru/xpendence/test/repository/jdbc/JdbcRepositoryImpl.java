@@ -1,6 +1,6 @@
-package repository.jdbc;
+package ru.xpendence.test.repository.jdbc;
 
-import repository.Repository;
+import ru.xpendence.test.repository.Repository;
 
 import java.sql.DriverManager;
 import java.sql.ResultSet;

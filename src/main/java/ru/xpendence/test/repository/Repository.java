@@ -1,4 +1,4 @@
-package repository;
+package ru.xpendence.test.repository;
 
 import java.util.List;
 

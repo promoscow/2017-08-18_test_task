@@ -1,4 +1,4 @@
-package service.fileservice;
+package ru.xpendence.test.fileservice;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
