@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6db5949932f040c6aef91611b8c15e7d)](https://www.codacy.com/app/promoscow/2017-08-18_test_task?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=promoscow/2017-08-18_test_task&amp;utm_campaign=Badge_Grade)
+
 <h2>Тестовое задание для одной крупной компании.</h2>
 
 Дано: таблица TEST в произвольной БД (использование in memory баз данных не рекомендуется), содержащая один столбец целочисленного типа (FIELD).
