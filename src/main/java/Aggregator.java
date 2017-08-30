@@ -36,9 +36,6 @@ public class Aggregator {
     private String password;
     private int value;
 
-    public Aggregator() {
-    }
-
     public static void main(String[] args) throws IOException {
         Properties properties = new Properties();
         properties.load(new FileInputStream(CONFIG_PATH));
